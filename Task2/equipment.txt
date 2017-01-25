@@ -1,0 +1,4 @@
+Balls ballsForBasket 40 100
+Balls ballsForFootball 30 100
+Shoes pairOfSneakers 20 50
+Shoes pairOfBoots 10 50
